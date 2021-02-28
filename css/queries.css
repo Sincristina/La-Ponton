@@ -1,0 +1,41 @@
+
+@media screen and (max-width: 700px) {
+.btn-blog {
+    position: absolute;
+    bottom: 20px;
+    left:280px;
+     }
+.finish {
+  top:900px;
+}
+.map-images {
+  top:500px;
+}
+}
+
+
+
+@media screen and (min-width: 720px) {
+  .map-images {
+    top:700px;
+  }
+
+}
+
+@media screen and (max-width: 1150px) {
+  .map-images {
+    top:550px;
+  }
+
+  .finish {
+    top:900px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .map-images {
+    top:550px;
+  }
+
+
+
+}
